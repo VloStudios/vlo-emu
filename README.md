@@ -7,3 +7,7 @@ VloEmu is an open-source Android emulator inspired by a Reddit post. I feel obli
 ## About
 
 VloEmu is a basic emulator built to run Android on a PC. The goal is to provide a clean alternative to bloated emulators like BlueStacks or LDPlayer (just to clarify, I am **not claiming** those are malware; this is purely a conceptual comparison).
+
+## Contribution
+
+This is a pure open-source project, feel free to create pull requests!
